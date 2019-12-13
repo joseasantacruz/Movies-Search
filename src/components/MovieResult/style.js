@@ -6,6 +6,7 @@ export default makeStyles({
     },
     poster: {  
         width: 120, 
+        margin: 5,
     },
     titleContainer: { 
         paddingLeft:8,
