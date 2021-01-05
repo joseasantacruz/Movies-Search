@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.7.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "git": "^0.1.5",
     "netlify-cli": "^2.25.0",
     "query-string": "^6.9.0",
